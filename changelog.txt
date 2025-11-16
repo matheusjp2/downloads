@@ -1,4 +1,16 @@
+--------------------
+Changelog 13/11/2025
+--------------------
 Adicionado Goku Legs
+Adicionado Goku boots
+Adicionado o carai
+Adicionado Trint
+Adicionado Hisoka
+Masagami corno
+Adicionado Goku Legs
+--------------------
+Changelog 14/11/2025
+--------------------
 Adicionado Goku boots
 Adicionado o carai
 Adicionado Trint
@@ -9,12 +21,9 @@ Adicionado Goku boots
 Adicionado o carai
 Adicionado Trint
 Adicionado Hisoka
-Masagami corno
-Adicionado Goku Legs
-Adicionado Goku boots
-Adicionado o carai
-Adicionado Trint
-Adicionado Hisoka
+--------------------
+Changelog 15/11/2025
+--------------------
 Masagami corno
 Adicionado Goku Legs
 Adicionado Goku boots
