@@ -1,33 +1,41 @@
 --------------------
-Changelog 13/11/2025
+Changelog 1.0.0
 --------------------
-Adicionado Goku Legs
-Adicionado Goku boots
-Adicionado o carai
-Adicionado Trint
-Adicionado Hisoka
-Masagami corno
-Adicionado Goku Legs
+Modules:
 --------------------
-Changelog 14/11/2025
+Adicionado Tooltip v2
+Adicionado Pet System
+Adicionado Shop Event Points
+Adicionado Bank Module
+Adicionado Inspect Custom
+Adicionado Fusion System
+Adicionado Crafting
+Adicionado Daily Reward
+Adicionado Character Stats
+Adicionado Bars
+Adicionado Auras
+Adicionado Skins
+Adicionado Shaders
+Adicionado Stash
+Adicionado Highscores
+Adicionado Server Booster
+Adicionado Raridade Drop
+Adicionado Loot Effect
+Adicionado Title (Rank)
 --------------------
-Adicionado Goku boots
-Adicionado o carai
-Adicionado Trint
-Adicionado Hisoka
-Masagami corno
-Adicionado Goku Legs
-Adicionado Goku boots
-Adicionado o carai
-Adicionado Trint
-Adicionado Hisoka
+Website
 --------------------
-Changelog 15/11/2025
---------------------
-Masagami corno
-Adicionado Goku Legs
-Adicionado Goku boots
-Adicionado o carai
-Adicionado Trint
-Adicionado Hisoka
-Masagami corno
+Adicionado HealthBar/Auras Bônus (createaccount)
+Adicionado Transforms
+Adicionado Vocação do dia
+Adicionado Vendas de personagem
+Adicionado Todas Sagas
+Adicionado Todos eventos
+Adicionado Achievements
+CharacterPage adicionado:
+Skins
+Pets
+Absorbs
+Bars
+Auras
+Raridade
