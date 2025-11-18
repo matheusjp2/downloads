@@ -25,9 +25,9 @@ Adicionado Title (Rank)
 --------------------
 Website
 --------------------
-Adicionado HealthBar/Auras Bônus (createaccount)
+Adicionado HealthBar/Auras Bonus
 Adicionado Transforms
-Adicionado Vocação do dia
+Adicionado Vocation of day
 Adicionado Vendas de personagem
 Adicionado Todas Sagas
 Adicionado Todos eventos
